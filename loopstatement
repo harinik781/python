@@ -1,0 +1,8 @@
+for loop.py
+for i in range(5):
+    print(i)
+count=0
+while count<3:
+    print("looping...")
+    count+=1
+    
