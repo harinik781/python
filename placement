@@ -1,0 +1,6 @@
+placement.py
+placement_training=("digital foundation and tech skills","introduction to python","operators in python","data types in python","looping statments")
+for i in placement_training:
+    print(i)
+for i,placement_training in enumerate(placement_training):
+    print(i+1,placement_training)
