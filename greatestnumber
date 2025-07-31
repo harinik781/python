@@ -1,0 +1,11 @@
+greatestnumber.py
+A=int(input("enter number1:"))
+B=int(input("enter number2:"))
+C=int(input("enter number3:"))
+if A>B:
+    print("A is greatest number")
+elif B>C:
+    print("B is greatest number")
+else:
+    print("C is greatest number")
+    
