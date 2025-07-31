@@ -1,0 +1,4 @@
+shoping.py
+shoping=("pencil","pen","milk","shampoo","coffee powder","onions")
+for i in shoping:
+    print(i)
